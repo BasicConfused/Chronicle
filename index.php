@@ -6,6 +6,16 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <header>
+        <h1>CHRONICLE</h1>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>Notes</li>
+                <li>Studies</li>
+                <li>About Us</li>
+            </ul>
+        </nav>
+    </header>
 </body>
 </html>
